@@ -24,22 +24,44 @@ Como obter este requisito não funcional? R: Aplicando as regras de Heurística.
 
 # Análise da interface do site youtube.com #
 
-Visibilidade de estado do sistema: O youtube.com permite ao usuário saber se o vídeo está completamente carregado ou se parou de carregar devido a um possível erro ou lentidão na rede.
+##Visibilidade de estado do sistema## 
+Acerto: O youtube.com permite ao usuário saber se o vídeo está completamente carregado ou se parou de carregar devido a um possível erro ou lentidão na rede.
+Erro: Não pude observar algum erro considerável na aplicação dessa heurística na plataforma.
 
-Pareamento do sistema ao mundo real: A linguagem utilizada na plataforma é próxima do usuário, livre de jargões técnicos ou específicos.
+##Pareamento do sistema ao mundo real## 
+Acerto: A linguagem utilizada na plataforma é próxima do usuário, livre de jargões técnicos ou específicos.
+Erro: Alguns termos são muito genéricos, como as categorias de vídeos e algumas funcionalidades.
 
-Controle e liberdade do usuário: O usuário pode parar de assistir a um video e, quando retornar continuar de onde parou, graças ao salvamento em biblioteca.
 
-Consistência e Padrões: O algoritmo de busca do youtube.com permite ao usuário encontrar o que busca, mesmo com um mínimo de informações.
+##Controle e liberdade do usuário## 
+Acerto: O usuário pode parar de assistir a um video e, quando retornar continuar de onde parou, graças ao salvamento em biblioteca.
+Erro: Videos ao vivo são executados automaticamente, podendo desencadear desperdício não esperado de banda.
 
-Prevenção de Erros: Não pude encontrar qualquer forma de prevenção de erros na plataforma.
+##Consistência e Padrões##
+Acerto: O algoritmo de busca do youtube.com permite ao usuário encontrar o que busca, mesmo com um mínimo de informações.
+Erro: Videos com menos relevância são mais difíceis de encontrar, o que torna buscas específicas mais difíceis.
 
-Reconhecimento: A plataforma faz uso de Thumbnails, que são miniaturas do tema que será abordado no video. Porém existem muitos "clickbait", quando a thumbnail é configurada para atrair a atenção do usuário, independente da consistencia com o tema abordado no video.
+##Prevenção de Erros## 
+Acerto: Não pude encontrar qualquer forma de prevenção de erros na plataforma.
+Erro: Não pude encontrar qualquer forma de prevenção de erros na plataforma.
 
-Flexibilidade e uso eficiente: A plataforma possui ícones de fácil reconhecimento e uso para o controle do fluxo de videos, incluindo configurações de resolução e velocidade.
+##Reconhecimento## 
+Acerto: A plataforma faz uso de Thumbnails, que são miniaturas do tema que será abordado no video.
+Erro: Porém existem muitos "clickbait", quando a thumbnail é configurada para atrair a atenção do usuário, independente da consistencia com o tema abordado no video.
 
-Estética e Design Minimalista: A plataforma não possui ícones enormes ou muito chamativos, tornando sua usabilidade melhor.
+##Flexibilidade e uso eficiente## 
+Acerto: A plataforma possui ícones de fácil reconhecimento e uso para o controle do fluxo de videos, incluindo configurações de resolução e velocidade.
+Erro: Talvez a simplicidade nas representações possam ser um desafio para pessoas menos familiarizadas com as tecnologias.
 
-Ajudar usuários a reconhecer e diagnosticar erros: A plataforma não possui fácil acesso a uma forma de reportar erros e bugs.
+##Estética e Design Minimalista## 
+Acerto: A plataforma não possui ícones enormes ou muito chamativos, tornando sua usabilidade melhor.
+Erro: Não pude identificar algum erro considerável na aplicação dessa heuristica.
 
-Ajuda e Documentação: A plataforma não possui qualquer forma de tutorial para novos usuários.
+##Ajudar usuários a reconhecer e diagnosticar erros## 
+Acerto: A plataforma não possui fácil acesso a uma forma de reportar erros e bugs.
+Erro: A plataforma não possui fácil acesso a uma forma de reportar erros e bugs.
+
+
+##Ajuda e Documentação## 
+Acerto: A plataforma é simples o bastante para não ser necessário uma documentação.
+Erro: Talvez seria mais amigável a novos usuários a disponibilização de tutoriais ou dicas durante a navegação.
