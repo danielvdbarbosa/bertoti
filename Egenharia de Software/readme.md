@@ -65,3 +65,7 @@ Erro: A plataforma não possui fácil acesso a uma forma de reportar erros e bug
 ## Ajuda e Documentação ## 
 Acerto: A plataforma é simples o bastante para não ser necessário uma documentação.
 Erro: Talvez seria mais amigável a novos usuários a disponibilização de tutoriais ou dicas durante a navegação.
+
+# Exemplo de User Case de operação de mercado #
+![User Case](https://github.com/danielvdbarbosa/bertoti/assets/114812503/97e87232-21f0-4fe2-bdfb-1c17dd13d14f)
+
